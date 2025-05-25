@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on building smart machines capable of performing tasks that typically require human intelligence. These tasks include understanding natural language, recognizing patterns and images, making decisions, and solving problems.
+
+AI is broadly categorized into two types: Narrow AI and General AI. Narrow AI is designed for specific tasks like voice assistants, recommendation systems, or facial recognition. General AI, on the other hand, aims to perform any intellectual task that a human can do, but it is still a theoretical concept at this stage.
+
+The development of AI has been accelerated by advances in machine learning, deep learning, and neural networks. These technologies enable systems to learn from data and improve over time without being explicitly programmed.
+
+Real-world applications of AI include self-driving cars, fraud detection, personalized healthcare, chatbots, smart home devices, and many more. As AI continues to evolve, it raises important ethical questions around privacy, bias, job displacement, and decision-making transparency.
+
+Despite challenges, AI has the potential to revolutionize industries and significantly improve efficiency, accuracy, and productivity.
